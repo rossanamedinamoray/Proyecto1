@@ -42,6 +42,6 @@ La importancia del proyecto radica en la optimización de estrategias de ventas,
 
 ## Autores
 
-- **[Rossana Medina]**
+- **Rossana Medina**
 
 ---
